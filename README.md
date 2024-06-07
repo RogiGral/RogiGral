@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **java gym management app**
  
- 🌱 I’m currently learning **AWS, Typescript**
+ 🌱 I’m currently learning **nestjs, AWS, Typescript**
 
 💬 Ask me about **Java,Angular,AWS**
 
