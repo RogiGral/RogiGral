@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Igor+Gralak!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Poland </h3>
+<h3 align="center">A passionate regular software developer from Poland </h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **java gym management app**
+ 🔭 I’m currently working on **NestJS test app**
  
- 🌱 I’m currently learning **nestjs, AWS, Typescript**
+ 🌱 I’m currently learning **Nestjs, AWS, Typescript**
 
 💬 Ask me about **Java,Angular,AWS**
 
