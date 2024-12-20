@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **NestJS test app**
+ 🔭 I’m currently working on **azure spotify archive tool**
  
- 🌱 I’m currently learning **Nestjs, AWS, Typescript**
+ 🌱 I’m currently learning **Azure, Typescript**
 
 💬 Ask me about **Java,Angular,AWS**
 
